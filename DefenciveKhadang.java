@@ -65,6 +65,7 @@ public class DefenciveKhadang extends Khadang {
 					else dq.addFirst(z);
 				}
 		}
+		{}
 		return dq;
 	}
 }
